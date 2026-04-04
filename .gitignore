@@ -1,0 +1,16 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+films/raw/*
+films/generated/*
+films/final/*
+node_modules/
+.next/
+*.mp4
+*.mov
+*.wav
+*.mp3
+venv/
+.venv/

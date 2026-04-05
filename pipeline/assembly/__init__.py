@@ -1,0 +1,1 @@
+from .film_assembler import FilmAssembler

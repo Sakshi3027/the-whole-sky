@@ -1,0 +1,1 @@
+from .shot_generator import ShotGenerator

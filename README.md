@@ -102,7 +102,7 @@ python scripts/test_assembly.py
 
 ## The Film
 
-*Coming soon — currently generating via CogVideoX on Colab T4.*
+*Available at: https://the-whole-sky.vercel.app*
 
 Narration written and recorded by Sakshi Chavan.
 Pipeline and research by Sakshi Chavan.
